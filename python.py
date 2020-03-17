@@ -198,13 +198,14 @@ def select_all():
 
         try:
             cursor.execute(import_table_query)
-            data = cursor.fetchall()
-            return render_template('data.html', data=data)
         # print("Данные успешно импортированны")
         except Exception as e:
             print(e)
 
             connection.close()
+
+        data = cursor.fetchall()
+        return render_template('data.html', data=data)
 
         # for row in cursor.fetchall():
         #     print(row)
@@ -231,9 +232,9 @@ def count():
 
             connection.close()
 
-        for row in cursor.fetchall():
-            print(row)
-        return redirect(url_for("index"))
+        data = cursor.fetchall()
+        return render_template('data1.html', data=data)
+        # return redirect(url_for("index"))
 
 
 if __name__ == "__main__":

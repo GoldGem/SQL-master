@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64ff9e8a-1dee-451e-9820-64564d9b6dc7" name="Default Changelist" comment="" />
+    <list default="true" id="64ff9e8a-1dee-451e-9820-64564d9b6dc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/data1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SQL-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SQL-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/input_data.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/input_data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/input_data3.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/input_data3.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +42,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -42,6 +51,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZFWPYxSiHAdislpIaZW2iMcoDG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -115,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584435298720</updated>
-      <workItem from="1584435299930" duration="23059000" />
+      <workItem from="1584435299930" duration="24483000" />
     </task>
     <servers />
   </component>
@@ -127,22 +137,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584435364271" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1584459093031">
+    <state x="730" y="327" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584460278531">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584459093031" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1584459093031">
+    <state x="730" y="327" key="#com.intellij.fileTypes.FileTypeChooser/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460278531" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1584460465361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584459093031" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1584459093031">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460465361" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1584460465361">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584459093031" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1584459093031">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460465361" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1584460465360">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584459093031" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460465360" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1584460465361">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460465361" />
     <state width="267" height="457" key="HiddenNamespacesPopup" timestamp="1584446223200">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -153,7 +167,7 @@
     <state x="461" y="167" key="SettingsEditor/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584435320171" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SQL_master$SQL_master.coverage" NAME="SQL-master Coverage Results" MODIFIED="1584459093025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/SQL_master$SQL_master.coverage" NAME="SQL-master Coverage Results" MODIFIED="1584460465350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/SQL_master$python_new.coverage" NAME="python_new Coverage Results" MODIFIED="1584443242851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

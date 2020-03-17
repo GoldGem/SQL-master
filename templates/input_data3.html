@@ -6,24 +6,9 @@
 </head>
 <body>
     <form method="POST">
-        <p>
-            {% block text1 %}
-                {{ text1 }}
-            {% endblock %}
-            <input name="name">
-        </p>
-        <p>
-            {% block text2 %}
-                {{ text2 }}
-            {% endblock %}
-            <input name="name_col">
-        </p>
-        <p>
-            {% block text3 %}
-                {{ text3 }}
-            {% endblock %}
-            <input name="int_col">
-        </p>
+        <p>{{ text1 }}<input name="name"></p>
+        <p>{{ text2 }}<input name="name_col"></p>
+        <p>{{ text3 }}<input name="int_col"></p>
         <input type="submit">
     </form>
 </body>
