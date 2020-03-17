@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <meta charset="utf-8">
+  <title></title>
+ </head>
+ <body>
+ {% block text %}
+     <p>{{ text }}</p>
+ {% endblock %}
+  <form method="POST">
+
+      <input name="name">
+      <input type="submit">
+  </form>
+ </body>
+</html>
