@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64ff9e8a-1dee-451e-9820-64564d9b6dc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SQL-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SQL-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/data.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/data1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/data1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +48,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZFWPYxSiHAdislpIaZW2iMcoDG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -121,12 +125,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584435298720</updated>
-      <workItem from="1584435299930" duration="24805000" />
+      <workItem from="1584435299930" duration="25962000" />
+      <workItem from="1584615869206" duration="186000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584435364271">
@@ -137,22 +145,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="730" y="327" key="#com.intellij.fileTypes.FileTypeChooser/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460278531" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1584460816270">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1584468471395">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460816270" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1584460816270">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584468471395" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1584468471395">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460816270" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1584460816270">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584468471395" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1584468471395">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460816270" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1584460816270">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584468471395" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1584468471395">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584460816270" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584468471395" />
     <state width="267" height="457" key="HiddenNamespacesPopup" timestamp="1584446223200">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -161,6 +169,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584435320171" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1584616251789">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584616251789" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SQL_master$SQL_master.coverage" NAME="SQL-master Coverage Results" MODIFIED="1584460816263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
