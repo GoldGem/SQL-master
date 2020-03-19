@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64ff9e8a-1dee-451e-9820-64564d9b6dc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SQL-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SQL-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +126,7 @@
       <updated>1584435298720</updated>
       <workItem from="1584435299930" duration="25962000" />
       <workItem from="1584615869206" duration="186000" />
+      <workItem from="1584620000196" duration="835000" />
     </task>
     <servers />
   </component>
@@ -169,10 +169,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="167" key="SettingsEditor/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584435320171" />
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1584616251789">
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1584620000728">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584616251789" />
+    <state x="656" y="348" key="com.intellij.ide.util.TipDialog/-1280.-109.1280.994/0.0.1920.1050@0.0.1920.1050" timestamp="1584620000728" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SQL_master$SQL_master.coverage" NAME="SQL-master Coverage Results" MODIFIED="1584460816263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />

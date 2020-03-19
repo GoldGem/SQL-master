@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+# -*- coding: utf-8 -*-
 import pymysql
 from flask import Flask, render_template, request, redirect, url_for
 
