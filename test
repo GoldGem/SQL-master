@@ -1,0 +1,15 @@
+Цикл for - цикл проходиться по каждому из элементов списка range
+for number in range(5):
+    print(number)
+
+цикл while - цикл будет работать, пока не исполнится определённое условие
+i = 0
+while i < 10:
+    print(i)
+    i += 1
+    
+    
+    
+t = open('text.txt', 'w')
+t.write("Hello World!")
+t.close()
